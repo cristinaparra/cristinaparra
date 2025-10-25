@@ -1,5 +1,6 @@
 <p align= "center">
-<img width="800" height="400" alt="Software Testing" src="https://github.com/user-attachments/assets/f021df9b-253c-4869-82a3-5b6c9b7f2c35" />
+<img width="800" height="400" alt="Software Testing" src="https://github.com/user-attachments/assets/4922e421-79c3-422c-bb8a-4512927846c6" />
+
 
 ________________________________
 # Hola, soy [Cristina Parra](https://www.linkedin.com/in/tuusuario)
