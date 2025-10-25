@@ -28,3 +28,6 @@ Puedes escribirme a: [cristina.parra0992@gmail.com](mailto:cristina.parra0992@gm
 - **DevTools**  
 _________________________
 ## Proyectos
+- [💻 Proyecto: Pruebas Funcionales en Aplicación de Taxis (URBAN.ROUTES)- BOOTCAMP QA ENGINEER TRIPLETEN](https://github.com/cristinaparra/Pruebas-de-regresi-n-para-app-de-movilidad-Urban-Routes-Bootcamp-Tripleten-2025-)
+- [💻 Proyecto: Pruebas de diseño y funcionalidad para app de movilidad | Bootcamp TripleTen (2025)](https://github.com/cristinaparra/Pruebas-de-diseNo-y-funcionalidad-para-app-de-movilidad-URBAN.-ROUTES-/blob/main/README.md)
+- [💻 Proyecto: Pruebas de APIs REST - Validación de Endpoints Backend | Bootcamp TripleTen (2025)](https://github.com/cristinaparra/Pruebas-de-APIs-Rest-Validaci-n-de-Endpoints-Backend-en-app-URBAN.-GROCERS/edit/main/README.md)
