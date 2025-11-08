@@ -20,12 +20,14 @@ Puedes escribirme a: [cristina.parra0992@gmail.com](mailto:cristina.parra0992@gm
 - Validación de APIs con **Postman**
 - Verificación de interfaces y experiencia de usuario
 - Análisis de datos y documentación detallada
+- Pruebas de aplicaciones móviles
 
 ## 💻 Tecnologías usadas
 - **Jira**  
 - **Postman**  
 - **Figma**  
-- **DevTools**  
+- **DevTools**
+- **Android Studio**
 _________________________
 ## Proyectos
 - [💻 Proyecto: Pruebas Funcionales en Aplicación de Taxis (URBAN.ROUTES)- BOOTCAMP QA ENGINEER TRIPLETEN](https://github.com/cristinaparra/Pruebas-de-regresi-n-para-app-de-movilidad-Urban-Routes-Bootcamp-Tripleten-2025-)
