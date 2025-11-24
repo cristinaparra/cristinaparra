@@ -34,3 +34,4 @@ _________________________
 - [💻 Proyecto: Pruebas de diseño y funcionalidad para app de movilidad | Bootcamp TripleTen (2025)](https://github.com/cristinaparra/Pruebas-de-diseNo-y-funcionalidad-para-app-de-movilidad-URBAN.-ROUTES-/blob/main/README.md)
 - [💻 Proyecto: Pruebas de APIs REST - Validación de Endpoints Backend | Bootcamp TripleTen (2025)](https://github.com/cristinaparra/Pruebas-de-APIs-Rest-Validaci-n-de-Endpoints-Backend-en-app-URBAN.-GROCERS/edit/main/README.md)
 - [💻 Proyecto: Pruebas de aplicación movil Urban.Lunch | Bootcamp TripleTen (2025)](https://github.com/cristinaparra/Pruebas-de-aplicaciones-m-viles-Urban.-Lunch)
+- [💻 Proyecto: Análisis de logs y consultas SQL | Bootcamp Tripleten ( 2025)]( https://github.com/cristinaparra/An-lisis-de-Logs-y-Consultas-SQL/blob/main/README.md)
