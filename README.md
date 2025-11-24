@@ -30,8 +30,8 @@ Puedes escribirme a: [cristina.parra0992@gmail.com](mailto:cristina.parra0992@gm
 - **Android Studio**
 _________________________
 ## Proyectos
-- [💻 Proyecto: Pruebas Funcionales en Aplicación de Taxis (URBAN.ROUTES)- BOOTCAMP QA ENGINEER TRIPLETEN](https://github.com/cristinaparra/Pruebas-de-regresi-n-para-app-de-movilidad-Urban-Routes-Bootcamp-Tripleten-2025-)
-- [💻 Proyecto: Pruebas de diseño y funcionalidad para app de movilidad | Bootcamp TripleTen (2025)](https://github.com/cristinaparra/Pruebas-de-diseNo-y-funcionalidad-para-app-de-movilidad-URBAN.-ROUTES-/blob/main/README.md)
-- [💻 Proyecto: Pruebas de APIs REST - Validación de Endpoints Backend | Bootcamp TripleTen (2025)](https://github.com/cristinaparra/Pruebas-de-APIs-Rest-Validaci-n-de-Endpoints-Backend-en-app-URBAN.-GROCERS/edit/main/README.md)
-- [💻 Proyecto: Pruebas de aplicación movil Urban.Lunch | Bootcamp TripleTen (2025)](https://github.com/cristinaparra/Pruebas-de-aplicaciones-m-viles-Urban.-Lunch)
+- [💻 Proyecto: Casos de pruebas. URBAN. ROUTES | Bootcamp TripleTen (2025)](https://github.com/cristinaparra/CASOS-DE-PRUEBAS.-URBAN-ROUTES)
+- [💻 Proyecto: Mapa Mental y Diagrama de Flujo. URBAN. ROUTES | Bootcamp Tripleten (2025)](https://github.com/cristinaparra/MAPA-MENTAL-Y-DIAGRAMA-DE-FLUJO-URBAN.-ROUTES)
+- [💻 Proyecto: Pruebas de diseño y funcionalidad para aplicaciones de movilidad. URBAN ROUTES |  Bootcamp TripleTen (2025)](https://github.com/cristinaparra/Pruebas-de-diseNo-y-funcionalidad-para-app-de-movilidad-URBAN.-ROUTES-)
+- [💻 Proyecto: Pruebas de aplicaciones moviles. URBAN LUNCH | Bootcamp Tripleten (2025)](https://github.com/cristinaparra/Pruebas-de-aplicaciones-m-viles-Urban.-Lunch)
 - [💻 Proyecto: Análisis de logs y consultas SQL | Bootcamp Tripleten ( 2025)]( https://github.com/cristinaparra/An-lisis-de-Logs-y-Consultas-SQL/blob/main/README.md)
