@@ -37,3 +37,4 @@ _________________________
 - [💻 Proyecto: Análisis de logs y consultas SQL | Bootcamp Tripleten ( 2025)]( https://github.com/cristinaparra/An-lisis-de-Logs-y-Consultas-SQL/blob/main/README.md)
 - [💻 Proyecto: Automated API Testing.URBAN GROCERS | Bootcamp Tripleten ( 2025)](https://github.com/cristinaparra/Automated-API-Testing-Urban-Grocers/blob/main/README.md)
 - [💻 Proyecto:API test automation Python | Bootcamp Tripleten ](https://github.com/cristinaparra/api-test-automation-python)
+- [💻 Proyecto:Proyecto de Automatización de Pruebas Web | Python + Selenium](https://github.com/cristinaparra/selenium-pom-test-framework/blob/main/README.md)
