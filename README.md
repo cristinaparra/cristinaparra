@@ -1,5 +1,4 @@
-<p align= "center">
-<img width="800" height="400" alt="Software Testing" src="https://github.com/user-attachments/assets/4922e421-79c3-422c-bb8a-4512927846c6" />
+
 
 
 ________________________________
